@@ -31,7 +31,7 @@ def data_process():
     data = load_data.load()[0]
     label = to_categorical(load_data.load()[1] - 1)
 
-    train_size = 2000
+    train_size = int(0.8*data.shape[0])
     train_data = data[:train_size,:]
     test_data = data[train_size:, :]
     train_label = label[:train_size,:]
