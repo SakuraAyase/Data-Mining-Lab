@@ -3,7 +3,7 @@ import numpy  as np
 
 
 
-def load_data(path = 'segment.dat'):
+def load_data(path = 'data\segment.dat'):
 
     data = pd.read_table(path,header=None,sep='\s+')
     data =  data.values
