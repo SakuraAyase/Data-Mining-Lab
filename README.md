@@ -20,15 +20,38 @@ Like following:
 
 ***
 Update:
-    Update all implementaions of the ten methods
+    Update all implementaions of the ten methods.
+    
+    
     Include: 
+    
     1. *LDA*
+    
+    
     2. *Support vector maching*
+    
+    
     3. *Nearest Neighbors*
+    
+    
     4. *Naive Bayes*
+    
+    
     5. *Decision Trees*
+    
+    
     6. *CART*   (Same implemention with *Decision tree*)
+    
+    
     7. *Random Forest*
+    
+    
     8. *Adaboost*
+    
+    
     9. *Gradient Tree Boosting*
+    
+    
     10. *LabelPropagation* and *LabelSpreading*
+    
+    
