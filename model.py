@@ -78,5 +78,5 @@ def train(epoches):
 
     return model
 
-model = train(10)
-
+epoch = 10 # Loop times of training process
+model = train(epoch)
