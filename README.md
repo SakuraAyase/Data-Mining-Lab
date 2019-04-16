@@ -8,5 +8,8 @@ The dataset we use is [dataset](http://archive.ics.uci.edu/ml/datasets/Statlog+%
 
 The network is implemented by Keras.
 
-After training process, the pro will output Learning Curve, save as "save.jps" at the root.
+After training process, the pro will output Learning Curve, save as [save.jps](https://user-images.githubusercontent.com/25098957/56190441-c59a6b00-605c-11e9-81e2-b6016997d5a8.jpg) at the root. 
+
+Like following:
+![save.jps](https://user-images.githubusercontent.com/25098957/56190441-c59a6b00-605c-11e9-81e2-b6016997d5a8.jpg)
 
